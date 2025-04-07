@@ -18,6 +18,10 @@ function receiveTipPorcentageValue(value){
     buttonSelected.classList.add("button-selected")
 }
 
+function receiveCustomTipPorcentageValue(){
+    
+}
+
 function removeClassButtonSelected(){
     if(buttonSelected !== null){
         buttonSelected.classList.remove("button-selected")
